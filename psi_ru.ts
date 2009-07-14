@@ -10193,6 +10193,137 @@ Reason: %1</source>
     </message>
 </context>
 <context>
+    <name>Shortcuts</name>
+    <message>
+        <source>Shortcuts in the chat dialog</source>
+        <translation>Окно чата</translation>
+    </message>
+    <message>
+        <source>Switch to the next tab</source>
+        <translation>Перейти к следующему табу</translation>
+    </message>
+    <message>
+        <source>Switch to the previous tab</source>
+        <translation>Перейти к предыдущему табу</translation>
+    </message>
+    <message>
+        <source>Change to quick command mode</source>
+        <translation>Перейти в режим ввода команд</translation>
+    </message>
+    <message>
+        <source>Find text</source>
+        <translation>Найти текст</translation>
+    </message>
+    <message>
+        <source>Sends the message</source>
+        <translation>Отправить сообщение</translation>
+    </message>
+    <message>
+        <source>Clear the text</source>
+        <translation>Очистить окно чата</translation>
+    </message>
+    <message>
+        <source>Shortcuts in the contactlist</source>
+        <translation>Ростер</translation>
+    </message>
+    <message>
+        <source>Assign a custom avatar to the selected contact</source>
+        <translation>Установить аватар для выбранного контакта</translation>
+    </message>
+    <message>
+        <source>Remove custom avatar from the selected contact</source>
+        <translation>Удалить аватар для выбранного контакта</translation>
+    </message>
+    <message>
+        <source>Delete the selected contact</source>
+        <translation>Удалить выбранный контакт</translation>
+    </message>
+    <message>
+        <source>Open a chat to the selected contact</source>
+        <translation>Открыть чат для выбранного контакта</translation>
+    </message>
+    <message>
+        <source>Send a message to the selected contact</source>
+        <translation>Отправить сообщение для выбранного контакта</translation>
+    </message>
+    <message>
+        <source>Receive incoming event</source>
+        <translation>Показать сообщение</translation>
+    </message>
+    <message>
+        <source>Rename the selected contact</source>
+        <translation>Переименовать выбранный контакт</translation>
+    </message>
+    <message>
+        <source>Log on to the selected transport</source>
+        <translation>Подключить выбранный транспорт</translation>
+    </message>
+    <message>
+        <source>Common actions</source>
+        <translation>Общие действия</translation>
+    </message>
+    <message>
+        <source>Scroll up</source>
+        <translation>Прокрутить вверх</translation>
+    </message>
+    <message>
+        <source>Scroll down</source>
+        <translation>Прокрутить вниз</translation>
+    </message>
+    <message>
+        <source>Close the current window/tab</source>
+        <translation>Закрыть текущее окно/таб</translation>
+    </message>
+    <message>
+        <source>Hide the current window/tab</source>
+        <translation>Скрыть текущее окно/таб</translation>
+    </message>
+    <message>
+        <source>Open the message history</source>
+        <translation>Открыть историю сообщений</translation>
+    </message>
+    <message>
+        <source>Show the user info of the contact</source>
+        <translation>Показать vCard контакта</translation>
+    </message>
+    <message>
+        <source>Shortcuts available from outside of the application</source>
+        <translation>Приложение</translation>
+    </message>
+    <message>
+        <source>Show/hide the application</source>
+        <translation>Показать/скрыть приложение</translation>
+    </message>
+    <message>
+        <source>Bring the application to front</source>
+        <translation>Вывести приложение на передний план</translation>
+    </message>
+    <message>
+        <source>Send new message</source>
+        <translation>Создать сообщение</translation>
+    </message>
+    <message>
+        <source>Shortcuts in the message dialog</source>
+        <translation>Окно сообщения</translation>
+    </message>
+    <message>
+        <source>Send the message</source>
+        <translation>Отправить сообщение</translation>
+    </message>
+    <message>
+        <source>Shortcuts in the status dialog</source>
+        <translation>Окно установки статуса</translation>
+    </message>
+    <message>
+        <source>Set the status message</source>
+        <translation>Установить статус</translation>
+    </message>
+    <message>
+        <source>Shortcuts in the service discovery dialog</source>
+        <translation>Окно обзора сервисов</translation>
+    </message>
+</context>
+<context>
     <name>ShowTextDlg</name>
     <message>
         <location filename="../src/showtextdlg.cpp" line="56"/>
