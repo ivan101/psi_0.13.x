@@ -3859,7 +3859,8 @@ contact is offline.</source>
     <message>
         <location filename="../src/filetransdlg.cpp" line="1265"/>
         <source>Status</source>
-        <translation>Состояние</translation>
+        <translatorcomment>kde mystic</translatorcomment>
+        <translation>Статус</translation>
     </message>
     <message>
         <location filename="../src/filetransdlg.cpp" line="1295"/>
