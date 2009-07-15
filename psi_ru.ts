@@ -128,7 +128,7 @@ Copyright © 2001-2009 The Psi Team.&lt;br&gt;</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 12.07.2009</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 15.07.2009</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="70"/>
@@ -8031,467 +8031,466 @@ Reason: %1.</source>
 <context>
     <name>PsiActionList::Private</name>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="343"/>
+        <location filename="../src/psiactionlist.cpp" line="347"/>
         <source>About</source>
         <translation>О программе</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="343"/>
+        <location filename="../src/psiactionlist.cpp" line="347"/>
         <source>&amp;About</source>
         <translation>&amp;О программе</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="346"/>
+        <location filename="../src/psiactionlist.cpp" line="350"/>
         <source>About &amp;Qt</source>
         <translation>О &amp;библиотеке Qt</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="346"/>
+        <location filename="../src/psiactionlist.cpp" line="350"/>
         <source>About Qt</source>
         <translation>О библиотеке Qt</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="210"/>
+        <location filename="../src/psiactionlist.cpp" line="214"/>
         <source>Account Setup</source>
         <translation>Настройки аккаунта</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="210"/>
+        <location filename="../src/psiactionlist.cpp" line="214"/>
         <source>Acc&amp;ount Setup</source>
         <translation>&amp;Аккаунты </translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="285"/>
+        <location filename="../src/psiactionlist.cpp" line="289"/>
         <source>Away</source>
         <translation>Отсутствую</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="178"/>
+        <location filename="../src/psiactionlist.cpp" line="182"/>
         <source>Buttons</source>
         <translation>Кнопки</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="216"/>
+        <location filename="../src/psiactionlist.cpp" line="220"/>
         <source>Change Profile</source>
         <translation>Сменить профиль</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="273"/>
+        <location filename="../src/psiactionlist.cpp" line="277"/>
         <source>Changes your global status to &apos;%1&apos;</source>
         <translation>Статус &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="113"/>
+        <location filename="../src/psiactionlist.cpp" line="117"/>
         <source>Common Actions</source>
         <translation>Общие действия</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="215"/>
+        <location filename="../src/psiactionlist.cpp" line="219"/>
         <source>Configure Tool&amp;bars</source>
         <translation>Настроить панели &amp;инструментов</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="215"/>
+        <location filename="../src/psiactionlist.cpp" line="219"/>
         <source>Configure Toolbars</source>
         <translation>Настроить панели инструментов</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="291"/>
+        <location filename="../src/psiactionlist.cpp" line="295"/>
         <source>DND</source>
         <translation>Не беспокоить</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="280"/>
+        <location filename="../src/psiactionlist.cpp" line="284"/>
         <source>Free for Chat</source>
         <translation>Готов поболтать</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="374"/>
+        <location filename="../src/psiactionlist.cpp" line="378"/>
         <source>Help</source>
         <translation>Справка</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="331"/>
+        <location filename="../src/psiactionlist.cpp" line="335"/>
         <source>&amp;Home Page (Online)</source>
         <translation>&amp;Домашняя страница</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="331"/>
-        <location filename="../src/psiactionlist.cpp" line="332"/>
+        <location filename="../src/psiactionlist.cpp" line="335"/>
+        <location filename="../src/psiactionlist.cpp" line="336"/>
         <source>Home Page (Online)</source>
         <translation>Домашняя страница</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="296"/>
+        <location filename="../src/psiactionlist.cpp" line="300"/>
         <source>Invisible</source>
         <translation>Невидимый</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="185"/>
+        <location filename="../src/psiactionlist.cpp" line="189"/>
         <source>&amp;Add a Contact</source>
         <translation>&amp;Добавить контакт</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="208"/>
+        <location filename="../src/psiactionlist.cpp" line="212"/>
         <source>New Blank Message</source>
         <translation>Отправить сообщение</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="208"/>
+        <location filename="../src/psiactionlist.cpp" line="212"/>
         <source>New &amp;Blank Message</source>
         <translation>Создать сооб&amp;щение</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="209"/>
+        <location filename="../src/psiactionlist.cpp" line="213"/>
         <source>Join Groupchat</source>
         <translation>Войти в конференцию</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="209"/>
+        <location filename="../src/psiactionlist.cpp" line="213"/>
         <source>Join &amp;Groupchat</source>
         <translation>Войти в кон&amp;ференцию</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="216"/>
+        <location filename="../src/psiactionlist.cpp" line="220"/>
         <source>&amp;Change Profile</source>
         <translation>С&amp;менить профиль</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="218"/>
+        <location filename="../src/psiactionlist.cpp" line="222"/>
         <source>Play Sounds</source>
         <translation>Включить звуки</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="218"/>
+        <location filename="../src/psiactionlist.cpp" line="222"/>
         <source>Play &amp;Sounds</source>
         <translation>Включить &amp;звуки</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="230"/>
+        <location filename="../src/psiactionlist.cpp" line="234"/>
         <source>Opens the transfer manager dialog</source>
         <translation>Диалог менеджера передачи данных</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="253"/>
+        <location filename="../src/psiactionlist.cpp" line="257"/>
         <source>Publish Tune</source>
         <translation>Показывать песню</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="253"/>
+        <location filename="../src/psiactionlist.cpp" line="257"/>
         <source>Publish &amp;Tune</source>
         <translation>Показывать &amp;песню</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="254"/>
+        <location filename="../src/psiactionlist.cpp" line="258"/>
         <source>Toggles whether the currently playing tune should be published or not</source>
         <translation>Включить публикацию текущей песни</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="268"/>
+        <location filename="../src/psiactionlist.cpp" line="272"/>
         <source>Set Status</source>
         <translation>Статус</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="269"/>
+        <location filename="../src/psiactionlist.cpp" line="273"/>
         <source>Smaller alternative to the Status button</source>
         <translation>Меньшая по размерам альтернатива кнопке &quot;Статус&quot;</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="320"/>
+        <location filename="../src/psiactionlist.cpp" line="324"/>
         <source>Show ReadMe file</source>
         <translation>Показать файл с инструкциями</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="337"/>
+        <location filename="../src/psiactionlist.cpp" line="341"/>
         <source>&amp;Join Psi Discussion Room (Online)</source>
         <translation>Войти в &amp;конференцию обсуждения Psi</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="337"/>
-        <location filename="../src/psiactionlist.cpp" line="338"/>
+        <location filename="../src/psiactionlist.cpp" line="341"/>
+        <location filename="../src/psiactionlist.cpp" line="342"/>
         <source>Join Psi Discussion Room (Online)</source>
         <translation>Конференция обсуждения Psi</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="349"/>
+        <location filename="../src/psiactionlist.cpp" line="353"/>
         <source>About GStreamer</source>
         <translation>О GStreamer</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="349"/>
+        <location filename="../src/psiactionlist.cpp" line="353"/>
         <source>About &amp;GStreamer</source>
         <translation>О &amp;GStreamer</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="355"/>
+        <location filename="../src/psiactionlist.cpp" line="359"/>
         <source>Key Storage</source>
         <translation>Ключ защиты памяти</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="355"/>
+        <location filename="../src/psiactionlist.cpp" line="359"/>
         <source>&amp;Key Storage</source>
         <translation>&amp;Ключ защиты памяти</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="248"/>
+        <location filename="../src/psiactionlist.cpp" line="252"/>
         <source>Menu Items</source>
         <translation>Пункты меню</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="301"/>
+        <location filename="../src/psiactionlist.cpp" line="305"/>
         <source>Offline</source>
         <translation>Отключён</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="277"/>
+        <location filename="../src/psiactionlist.cpp" line="281"/>
         <source>Online</source>
         <translation>Доступен</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="212"/>
+        <location filename="../src/psiactionlist.cpp" line="216"/>
         <source>&amp;Options</source>
         <translation>&amp;Настройки</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="212"/>
+        <location filename="../src/psiactionlist.cpp" line="216"/>
         <source>Options</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="165"/>
+        <location filename="../src/psiactionlist.cpp" line="169"/>
         <source>Provides a convenient way to change and to get information about current status</source>
         <translation>Удобный способ для изменения/просмотра текущего статуса</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="159"/>
+        <location filename="../src/psiactionlist.cpp" line="163"/>
         <source>&amp;Psi</source>
         <translation>&amp;Меню</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="261"/>
+        <location filename="../src/psiactionlist.cpp" line="265"/>
         <source>Publish</source>
         <translation>Публиковать</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="221"/>
+        <location filename="../src/psiactionlist.cpp" line="225"/>
         <source>Quit</source>
         <translation>Выход</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="221"/>
+        <location filename="../src/psiactionlist.cpp" line="225"/>
         <source>&amp;Quit</source>
         <translation>&amp;Выход</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="223"/>
+        <location filename="../src/psiactionlist.cpp" line="227"/>
         <source>Quits Psi</source>
         <translation>Выход из Psi</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="319"/>
+        <location filename="../src/psiactionlist.cpp" line="323"/>
         <source>&amp;ReadMe</source>
         <translation>&amp;Инструкции</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="319"/>
+        <location filename="../src/psiactionlist.cpp" line="323"/>
         <source>ReadMe</source>
         <translation>Инструкции</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="340"/>
+        <location filename="../src/psiactionlist.cpp" line="344"/>
         <source>Report a &amp;Bug (Online)</source>
         <translation>Сообщить об о&amp;шибке</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="340"/>
-        <location filename="../src/psiactionlist.cpp" line="341"/>
+        <location filename="../src/psiactionlist.cpp" line="344"/>
+        <location filename="../src/psiactionlist.cpp" line="345"/>
         <source>Report a Bug (Online)</source>
         <translation>Сообщить об ошибке</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="353"/>
+        <location filename="../src/psiactionlist.cpp" line="357"/>
         <source>Security Plugins</source>
         <translation>Модули безопасности</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="353"/>
+        <location filename="../src/psiactionlist.cpp" line="357"/>
         <source>Security &amp;Plugins</source>
         <translation>&amp;Модули безопасности</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="226"/>
-        <location filename="../src/psiactionlist.cpp" line="323"/>
+        <location filename="../src/psiactionlist.cpp" line="230"/>
+        <location filename="../src/psiactionlist.cpp" line="327"/>
         <source>See many useful tips</source>
         <translation>Просмотр многих полезных советов</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="191"/>
+        <location filename="../src/psiactionlist.cpp" line="195"/>
         <source>Service &amp;Discovery</source>
         <translation>&amp;Обзор сервисов</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="135"/>
+        <location filename="../src/psiactionlist.cpp" line="139"/>
         <source>Show Agents/Transports</source>
         <translation>Показывать сервисы</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="128"/>
+        <location filename="../src/psiactionlist.cpp" line="132"/>
         <source>Show Away/XA/DnD Contacts</source>
         <translation>Показывать занятые контакты</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="155"/>
+        <location filename="../src/psiactionlist.cpp" line="159"/>
         <source>Show Contacts</source>
         <translation>Показ контактов</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="132"/>
+        <location filename="../src/psiactionlist.cpp" line="136"/>
         <source>Show Hidden Contacts</source>
         <translation>Показывать скрытые контакты</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="125"/>
+        <location filename="../src/psiactionlist.cpp" line="129"/>
         <source>Show Offline Contacts</source>
         <translation>Показывать отключённых</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="138"/>
+        <location filename="../src/psiactionlist.cpp" line="142"/>
         <source>Show Self Contact</source>
         <translation>Показывать свой контакт</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="141"/>
+        <location filename="../src/psiactionlist.cpp" line="145"/>
         <source>Show Status Messages</source>
         <translation>Показывать статусные сообщения</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="169"/>
+        <location filename="../src/psiactionlist.cpp" line="173"/>
         <source>Special item that displays number of pending events</source>
         <translation>Число полученных сообщений</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="315"/>
-        <location filename="../src/psiactionlist.cpp" line="404"/>
+        <location filename="../src/psiactionlist.cpp" line="319"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="164"/>
+        <location filename="../src/psiactionlist.cpp" line="168"/>
         <source>&amp;Status</source>
         <translation>&amp;Статус</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="160"/>
+        <location filename="../src/psiactionlist.cpp" line="164"/>
         <source>The main Psi button, that provides access to many actions</source>
         <translation>Главная кнопка Psi, обеспечивающая доступ ко многим действиям</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="225"/>
-        <location filename="../src/psiactionlist.cpp" line="322"/>
+        <location filename="../src/psiactionlist.cpp" line="229"/>
+        <location filename="../src/psiactionlist.cpp" line="326"/>
         <source>Tip of the Day</source>
         <translation>Совет дня</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="225"/>
-        <location filename="../src/psiactionlist.cpp" line="322"/>
+        <location filename="../src/psiactionlist.cpp" line="229"/>
+        <location filename="../src/psiactionlist.cpp" line="326"/>
         <source>&amp;Tip of the Day</source>
         <translation>&amp;Совет дня</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="121"/>
+        <location filename="../src/psiactionlist.cpp" line="125"/>
         <source>Toggle visibility of special roster groups</source>
         <translation>Переключить показ групп в списке контактов</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="136"/>
+        <location filename="../src/psiactionlist.cpp" line="140"/>
         <source>Toggles visibility of agents/transports in roster</source>
         <translation>Переключить показ сервисов в ростере</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="130"/>
+        <location filename="../src/psiactionlist.cpp" line="134"/>
         <source>Toggles visibility of away/xa/dnd contacts in roster</source>
         <translation>Переключить показ контактов со статусами  &quot;Отсутствую/Недоступен/Не беспокоить&quot;</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="133"/>
+        <location filename="../src/psiactionlist.cpp" line="137"/>
         <source>Toggles visibility of hidden contacts in roster</source>
         <translation>Переключить видимость скрытых контактов в списке</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="126"/>
+        <location filename="../src/psiactionlist.cpp" line="130"/>
         <source>Toggles visibility of offline contacts in roster</source>
         <translation>Переключить показ отключённых контактов</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="139"/>
+        <location filename="../src/psiactionlist.cpp" line="143"/>
         <source>Toggles visibility of self contact in roster</source>
         <translation>Переключить показ своего контакта в списке контактов</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="142"/>
+        <location filename="../src/psiactionlist.cpp" line="146"/>
         <source>Toggles visibility of status messages of contacts</source>
         <translation>Включить видимость сообщений о смене статуса контактов</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="219"/>
+        <location filename="../src/psiactionlist.cpp" line="223"/>
         <source>Toggles whether sound should be played or not</source>
         <translation>Переключить воспроизведение звуков</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="229"/>
+        <location filename="../src/psiactionlist.cpp" line="233"/>
         <source>Transfer Manager</source>
         <translation>Менеджер передачи данных</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="229"/>
+        <location filename="../src/psiactionlist.cpp" line="233"/>
         <source>Trans&amp;fer Manager</source>
         <translation>Менеджер &amp;передачи данных</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="325"/>
-        <location filename="../src/psiactionlist.cpp" line="326"/>
+        <location filename="../src/psiactionlist.cpp" line="329"/>
+        <location filename="../src/psiactionlist.cpp" line="330"/>
         <source>User Guide (Online)</source>
         <translation>Руководство пользователя</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="325"/>
+        <location filename="../src/psiactionlist.cpp" line="329"/>
         <source>&amp;User Guide (Online)</source>
         <translation>&amp;Руководство пользователя</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="120"/>
+        <location filename="../src/psiactionlist.cpp" line="124"/>
         <source>View Groups</source>
         <translation>Показ групп</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="328"/>
-        <location filename="../src/psiactionlist.cpp" line="329"/>
+        <location filename="../src/psiactionlist.cpp" line="332"/>
+        <location filename="../src/psiactionlist.cpp" line="333"/>
         <source>Wiki (Online)</source>
         <translation>Wiki</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="328"/>
+        <location filename="../src/psiactionlist.cpp" line="332"/>
         <source>&amp;Wiki (Online)</source>
         <translation>&amp;Wiki</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="288"/>
+        <location filename="../src/psiactionlist.cpp" line="292"/>
         <source>XA</source>
         <translation>Недоступен</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="187"/>
+        <location filename="../src/psiactionlist.cpp" line="191"/>
         <source>&amp;XML Console</source>
         <translation>Консоль &amp;XML</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="334"/>
-        <location filename="../src/psiactionlist.cpp" line="335"/>
+        <location filename="../src/psiactionlist.cpp" line="338"/>
+        <location filename="../src/psiactionlist.cpp" line="339"/>
         <source>Psi Forum (Online)</source>
         <translation>Форум Psi</translation>
     </message>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="334"/>
+        <location filename="../src/psiactionlist.cpp" line="338"/>
         <source>Psi &amp;Forum (Online)</source>
         <translation>&amp;Форум Psi</translation>
     </message>
@@ -10195,130 +10194,158 @@ Reason: %1</source>
 <context>
     <name>Shortcuts</name>
     <message>
+        <location filename="../src/option_translations.cpp" line="2"/>
         <source>Shortcuts in the chat dialog</source>
         <translation>Окно чата</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="3"/>
         <source>Switch to the next tab</source>
         <translation>Перейти к следующему табу</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="4"/>
         <source>Switch to the previous tab</source>
         <translation>Перейти к предыдущему табу</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="8"/>
         <source>Change to quick command mode</source>
         <translation>Перейти в режим ввода команд</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="5"/>
         <source>Find text</source>
         <translation>Найти текст</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="6"/>
         <source>Sends the message</source>
         <translation>Отправить сообщение</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="7"/>
         <source>Clear the text</source>
         <translation>Очистить окно чата</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="9"/>
         <source>Shortcuts in the contactlist</source>
         <translation>Ростер</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="10"/>
         <source>Assign a custom avatar to the selected contact</source>
         <translation>Установить аватар для выбранного контакта</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="11"/>
         <source>Remove custom avatar from the selected contact</source>
         <translation>Удалить аватар для выбранного контакта</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="12"/>
         <source>Delete the selected contact</source>
         <translation>Удалить выбранный контакт</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="13"/>
         <source>Open a chat to the selected contact</source>
         <translation>Открыть чат для выбранного контакта</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="14"/>
         <source>Send a message to the selected contact</source>
         <translation>Отправить сообщение для выбранного контакта</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="15"/>
+        <location filename="../src/option_translations.cpp" line="25"/>
         <source>Receive incoming event</source>
         <translation>Показать сообщение</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="16"/>
         <source>Rename the selected contact</source>
         <translation>Переименовать выбранный контакт</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="17"/>
         <source>Log on to the selected transport</source>
         <translation>Подключить выбранный транспорт</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="18"/>
         <source>Common actions</source>
         <translation>Общие действия</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="19"/>
         <source>Scroll up</source>
         <translation>Прокрутить вверх</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="20"/>
         <source>Scroll down</source>
         <translation>Прокрутить вниз</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="21"/>
         <source>Close the current window/tab</source>
         <translation>Закрыть текущее окно/таб</translation>
     </message>
     <message>
-        <source>Hide the current window/tab</source>
-        <translation>Скрыть текущее окно/таб</translation>
-    </message>
-    <message>
+        <location filename="../src/option_translations.cpp" line="22"/>
         <source>Open the message history</source>
         <translation>Открыть историю сообщений</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="23"/>
         <source>Show the user info of the contact</source>
         <translation>Показать vCard контакта</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="24"/>
         <source>Shortcuts available from outside of the application</source>
         <translation>Приложение</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="26"/>
         <source>Show/hide the application</source>
         <translation>Показать/скрыть приложение</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="27"/>
         <source>Bring the application to front</source>
         <translation>Вывести приложение на передний план</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="28"/>
         <source>Send new message</source>
         <translation>Создать сообщение</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="29"/>
         <source>Shortcuts in the message dialog</source>
         <translation>Окно сообщения</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="30"/>
         <source>Send the message</source>
         <translation>Отправить сообщение</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="31"/>
         <source>Shortcuts in the status dialog</source>
         <translation>Окно установки статуса</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="32"/>
         <source>Set the status message</source>
         <translation>Установить статус</translation>
     </message>
     <message>
+        <location filename="../src/option_translations.cpp" line="33"/>
         <source>Shortcuts in the service discovery dialog</source>
         <translation>Окно обзора сервисов</translation>
     </message>
