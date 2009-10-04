@@ -4339,7 +4339,7 @@ Please choose a different file name.</source>
     <message>
         <location filename="../src/gui/widgets/qscrollbar.cpp" line="415"/>
         <source>Scroll here</source>
-        <translation>Прокрутка на месте</translation>
+        <translation>Прокрутить сюда</translation>
     </message>
     <message>
         <location filename="../src/gui/widgets/qscrollbar.cpp" line="418"/>
